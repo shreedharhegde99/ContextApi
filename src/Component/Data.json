@@ -1,0 +1,28 @@
+[
+  {
+    "username": "shreedhar",
+    "password": "9480869126",
+    "name": "Shreedhar Bhat",
+    "age": "23",
+    "DOB": "03-09-1998",
+    "avatar": "https://i.imgur.com/K80EfSv.jpg"
+  },
+  {
+    "username": "shreedhar",
+    "password": "9482101148",
+
+    "name": "Shreedhar Hegde",
+    "age": "22",
+    "DOB": "20-09-1998",
+    "avatar": "https://i.imgur.com/s6godLW.jpg"
+  },
+  {
+    "username": "mahesh",
+    "password": "9481645750",
+
+    "name": "Mahesh Hegde",
+    "age": "23",
+    "DOB": "20-09-1998",
+    "avatar": "https://i.imgur.com/xMe0hJJ.jpg"
+  }
+]
